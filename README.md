@@ -34,4 +34,4 @@ The board size, n, is provided as a program parameter.
 The initial state is generated randomly with 30% of cells initially alive.
 Subsequent states are displayed after pressing Enter.
 ```
-
+---
